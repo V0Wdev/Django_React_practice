@@ -1,0 +1,42 @@
+.App {
+  min-height: 100vh;
+  background-color: #545454;
+  color: white;
+  padding: 20px;
+}
+
+.Login{
+  margin:auto;
+  text-align: center;
+}
+.login-form{
+  margin: 100px auto 0 auto;
+  width:400px;
+}
+.btn2{
+  margin-top: 20px;
+}
+.right-part{
+  padding-top: 50px;
+}
+.left-part{
+  text-align: right;
+}
+.row{
+  width: 200px;
+}
+.hrclass{
+  background: white;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
